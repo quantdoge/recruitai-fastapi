@@ -1,0 +1,10 @@
+dask==2024.8.1
+duckdb==1.2.1
+fastapi==0.116.1
+openai==1.97.0
+pinecone==7.3.0
+psycopg2==2.9.10
+pydantic==2.11.7
+PyPDF2==3.0.1
+python_jose==3.5.0
+SQLAlchemy==2.0.39
